@@ -6,7 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #0a55ce;
+    background-color: #0b0b0c;
     color: rgb(14, 221, 228);
     display: flex;
     justify-content: space-around;
@@ -39,7 +39,7 @@ body {
 
 .escola-div-conteudo{
     width: 35%;
-}
+}agrinho.jpg
 
 
 .escola-titulo{
@@ -63,7 +63,7 @@ body {
 }
 
 .rodape-imagem{
-    height: 60px;
+    width: 100%;
     padding: 12px 0;
    
 }
